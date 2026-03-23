@@ -7,7 +7,7 @@
 
 Countdown coming soon website created with HTML, CSS, JS
 
-Site published at https://mantodinas.github.io/Countdown-coming-soon/
+Site published at https://mantodinas.github.io/countdown-coming-soon/
 
 Created by Mantas Petrauskas 
 more projects https://github.com/mantodinas
